@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OneOddOut
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning About swiftUI and node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: theoneodd_out
+- 🌱 I’m currently learning About next.js
+- 🤝 I’m looking to collaborate on some project.
 - ⚡ Fun fact: I been learnign coding since i was 9 years ol
