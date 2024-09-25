@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OneOddOut
+- 👋 Hi, I’m Ruhan Pacolli
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning About next.js
 - 🤝 I’m looking to collaborate on some project.
